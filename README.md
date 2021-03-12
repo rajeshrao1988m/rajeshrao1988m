@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeshrao1988m
-- 👀 I’m interested in Azure Cloud, Terraform, Kubernetes, Jenkins, CI/CD, Powershell. 
+- 👀 I’m interested in Azure Cloud,Kubernetes, Jenkins, CI/CD, Powershell, Terraform and other scripting languages. 
 - 🌱 I’m currently learning Terraform to automate stuff. 
 - 💞️ I’m looking to collaborate on Automation Tasks in/on Azure cloud. 
 - 📫 How to reach me ... email: rajeshrao1988m@gmail.com
